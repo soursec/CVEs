@@ -1,1 +1,1 @@
-This repository contains CVEs
+This repository contains CVEs assigned to me
